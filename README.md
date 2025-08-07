@@ -1,2 +1,1 @@
-# torrix
-Torrix Package Manager
+# Torrix Package Manager
